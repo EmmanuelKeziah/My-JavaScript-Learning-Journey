@@ -15,7 +15,9 @@ Each **Day** contains:
 My-JavaScript-Learning-Journey/
 
 ├── Day1-Variables/ # Understanding variables in JavaScript
+
 ├── Day2-DataTypes/ # (Coming soon)
+
 ├── Day3-Operators/ # (Coming soon)
 
 ---
