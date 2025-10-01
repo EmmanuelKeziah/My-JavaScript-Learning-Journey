@@ -25,4 +25,5 @@ shoppingCart = "Bananas";
 console.log("Updated Shopping Cart:", shoppingCart);
 
 shoppingCart = "Grapes";
+
 console.log("Final Shopping Cart:", shoppingCart);
